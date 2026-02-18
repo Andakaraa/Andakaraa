@@ -1,8 +1,10 @@
-# 💫 About Me:
-Mahasiswa S1 Sistem Informasi semester 6 yang memiliki ketertarikan pada bidang Web Development. Terbiasa mengerjakan proyek berbasis JavaScript, HTML, dan CSS selama perkuliahan. Memiliki kemampuan problem solving, cepat belajar, dan mampu bekerja secara mandiri maupun tim. Sedang mencari kesempatan magang untuk mengembangkan kemampuan teknis di lingkungan profesional.
+# Hi there👋, I'm Ridho
+🎓 I'm an undergraduate student at University State of Surabaya, Indonesia.<br>
+💻 Passionate about Software/Web Development and AI Engineering.<br>
+🌱 Currently learning Sofware Development and other programming languages<br>
 
 
-## 🌐 Socials:
+## 🌐 Connect With Me :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/andakara-wardono-13386b37b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andakarawardono05@gmail.com) 
 
 # 💻 Tech Stack:
