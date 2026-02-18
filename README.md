@@ -1,17 +1,18 @@
-# Andakaraa
+# 💫 About Me:
+Mahasiswa S1 Sistem Informasi semester 6 yang memiliki ketertarikan pada bidang Web Development. Terbiasa mengerjakan proyek berbasis JavaScript, HTML, dan CSS selama perkuliahan. Memiliki kemampuan problem solving, cepat belajar, dan mampu bekerja secara mandiri maupun tim. Sedang mencari kesempatan magang untuk mengembangkan kemampuan teknis di lingkungan profesional.
 
-Halo! Saya **Andakaraa**. Selamat datang di profil GitHub saya.
 
-## Tentang Saya
-- 👨‍💻 Pengembang yang tertarik pada pengembangan aplikasi dan teknologi terbaru
-- 🌱 Saat ini terus belajar dan meningkatkan keterampilan
-- 🤝 Terbuka untuk kolaborasi dan proyek menarik
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/andakara-wardono-13386b37b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andakarawardono05@gmail.com) 
 
-## Statistik GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andakaraa&show_icons=true&theme=tokyonight)
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Andakaraa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Andakaraa&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Andakaraa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Bahasa Teratas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andakaraa&layout=compact&theme=tokyonight)
+---
+[![](https://visitcount.itsvg.in/api?id=Andakaraa&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Kontak
-- GitHub: https://github.com/Andakaraa
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
