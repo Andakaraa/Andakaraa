@@ -1,16 +1,17 @@
-## Hi there 👋
+# Andakaraa
 
-<!--
-**Andakaraa/Andakaraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Halo! Saya **Andakaraa**. Selamat datang di profil GitHub saya.
 
-Here are some ideas to get you started:
+## Tentang Saya
+- 👨‍💻 Pengembang yang tertarik pada pengembangan aplikasi dan teknologi terbaru
+- 🌱 Saat ini terus belajar dan meningkatkan keterampilan
+- 🤝 Terbuka untuk kolaborasi dan proyek menarik
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Statistik GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andakaraa&show_icons=true&theme=tokyonight)
+
+## Bahasa Teratas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andakaraa&layout=compact&theme=tokyonight)
+
+## Kontak
+- GitHub: https://github.com/Andakaraa
